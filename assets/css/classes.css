@@ -1,0 +1,17 @@
+.main-bg {
+    background-image: url(/assets/img/main-bg.svg);
+    background-position: center center;
+    background-size: cover;
+    color: var(--white);
+}
+
+.white-bg {
+    background-color: var(--white);
+    color: var(--primary)
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 8rem var(--gap)
+}
