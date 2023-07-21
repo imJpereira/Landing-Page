@@ -58,9 +58,10 @@ section {
 }
 
 table {
-    width: 64rem;
-    min-width: 36rem;
+    width: 100%;
+    min-width: 50rem;
     border-collapse: collapse;
+    margin-bottom: 1rem;
 }
 
 table caption {
